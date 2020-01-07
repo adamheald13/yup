@@ -1,0 +1,14 @@
+{
+  "name": "yup",
+  "version": "1.0.0",
+  "description": "yup",
+  "main": "yup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pablosan#7996",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
